@@ -1,7 +1,12 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "baseUrl": "."
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "target": "esnext",
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "inlineSourceMap": true
   },
   "include": [
     "src/**/*"
