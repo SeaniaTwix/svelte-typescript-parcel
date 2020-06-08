@@ -11,13 +11,13 @@
     "crayon": "^6.0.1",
     "crayon-animate": "latest",
     "crayon-svelte": "^6.0.0",
-    "svelte": "^3.0.0"
+    "svelte": "^3.23.0"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.4",
     "parcel-plugin-svelte": "^4.0.6",
-    "svelte-preprocess": "^3.7.4",
-    "typescript": "^3.9.3"
+    "svelte-preprocess": "^3.9.6",
+    "typescript": "^3.9.5"
   },
   "browserslist": [
     "last 1 chrome versions"
